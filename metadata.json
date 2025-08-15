@@ -1,0 +1,7 @@
+{
+  "name": "AISB Web App",
+  "description": "An interactive learning platform featuring a voice-controlled AI assistant, AISU, to help users navigate courses, quizzes, and assignments. This application provides a seamless educational experience with features like user authentication, course management, and real-time chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
